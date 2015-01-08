@@ -807,6 +807,23 @@ main {
   .callout p {
     margin: .75em 0 0 0; }
 
+.event {
+  margin-bottom: 1em; }
+  .event h3 {
+    padding-bottom: 0; }
+  .event > * {
+    padding: .2em .4em;
+    line-height: 1.25em; }
+  .event .event-details {
+    font-size: 0.75em;
+    padding-left: .6em; }
+  .event .notes {
+    font-size: .9em; }
+  .event address {
+    display: inline-block; }
+    .event address::before {
+      content: "|"; }
+
 .meetup-list-item {
   color: #535456;
   border: 2px solid #eee;
