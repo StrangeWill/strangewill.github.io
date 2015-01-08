@@ -1,0 +1,443 @@
+{
+    "devs": [
+        
+        
+        {
+            "name": "Aaron Gustafson",
+            "github": "aarongustafson",
+            "gravatar-id": "323311bb4cc5af1a4b2c5c26b4cfc5a3",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://aaron-gustafson.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/aarongusafson"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Adam Jimerson",
+            "github": "vendion",
+            "gravatar-id": "ba6c5f19da87f22d0e54194b8d54c3e7",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "https://vendion.me"
+                },
+                
+                {
+                    "name": "google+",
+                    "url": "https://google.com/+AdamJimerson"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Andrew Rodgers",
+            "github": "acedrew",
+            "gravatar-id": "35af7d0ef564b39f7d839ad411d314ad",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://acedrew.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/acedrew"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Brett Wise",
+            "github": "brettwise",
+            "gravatar-id": "9ddab140a5e78055329e117558eb8c56",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://www.brettwise.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://www.twitter.com/brettwise"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Chris Keathley",
+            "github": "keathley",
+            "gravatar-id": "0b78cd99e3b04ffd9aa65f8a3ffe4e89",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://keathley.github.io/"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/chriskeathley"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Colin Rymer",
+            "github": "colinrymer",
+            "gravatar-id": "6db3264370e31932c8fd0614b3ed4a02",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://colinrymer.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/colinrymer"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Dylan Karr",
+            "github": "dylankarr",
+            "gravatar-id": "7c49e23f80cfbbc4ebe5b34954788833",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://dylankarr.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/karrdylan"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Elizabeth Ropp",
+            "github": "roppem9",
+            "gravatar-id": "1c6c6a65cd7426d142c0c2ab468fb006",
+            "urls": [
+            
+                {
+                    "name": "behance",
+                    "url": "http://be.net/roppem9"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/roppem9"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Ethan Rogers",
+            "github": "ethanfrogers",
+            "gravatar-id": "b7487ce4463c4aa16e427b05ae4550f9",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://ethanfrogers.github.io"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/e_frogers"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Jake Brown",
+            "github": "jake-sl",
+            "gravatar-id": "2f02d7268853721fc9860d72797e6601",
+            "urls": [
+            
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/jkaebrwon"
+                },
+                
+                {
+                    "name": "facebook",
+                    "url": "https://www.facebook.com/jake.slll"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Justin Spain",
+            "github": "juzten",
+            "gravatar-id": "a05c9f65893553a19106d760e084541b",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://jwspain.co/"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/jwsmusic"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Kyle Gordy",
+            "github": "kylegordy",
+            "gravatar-id": "e5803bf441ae18f5e84529f0a4ee0e4c",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://kgordy.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/kylegordy"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Mary Helen Montgomery",
+            "github": "mhelenm",
+            "gravatar-id": "af4673e063969e069c8efac226201266",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://www.maryhelenmiller.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/mhelenm"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Maura Friedman",
+            "github": "MauraFriedman",
+            "gravatar-id": "d68f899a20fb18e5fab707b33c6addf1",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://maursupial.tumblr.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/MauraFriedman"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Philip Brown",
+            "github": "philipdbrown",
+            "gravatar-id": "f7e0e16c71f5bdeb101c91fb43e2dcc5",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://www.philipdbrown.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/philipdbrown"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Regina Geronimo",
+            "github": "ilubmang0z",
+            "gravatar-id": "3f5887a76811b49b46200bb007994f6b",
+            "urls": [
+            
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/rynala"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Sean Brewer",
+            "github": "seabre",
+            "gravatar-id": "675ae635d304f5a8ca0ff0142bb2671e",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://seabre.github.io"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/seabre"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Summer Kohlhorst",
+            "github": "skohlhorst",
+            "gravatar-id": "02d9a758f03f6d3dc1d6cb40714db8a9.jpg?s=256",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://summerkohlhorst.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/summerkohlhorst"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Trey Causey",
+            "github": "sonusfaber",
+            "gravatar-id": "f91748607ca4a9137f6b51991ea6686c",
+            "urls": [
+            
+                {
+                    "name": "facebook",
+                    "url": "https://www.facebook.com/trey.causey.5"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/tcausey808"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "Wil Wade",
+            "github": "wilwade",
+            "gravatar-id": "47f2327321da8fa7a40353f25a71eee2",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://wilwade.com"
+                },
+                
+                {
+                    "name": "google+",
+                    "url": "https://google.com/+WilWade"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "William Roush",
+            "github": "strangewill",
+            "gravatar-id": "6789f8bd72612e941f9a7ae6f414b2ea",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://www.roushtech.net"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://www.twitter.com/StrangeWill"
+                }
+                
+                ]
+            
+
+            }
+        
+    ]
+}
+
