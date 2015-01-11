@@ -812,11 +812,10 @@ main {
   .event h3 {
     padding-bottom: 0; }
   .event > * {
-    padding: .2em .4em;
+    padding: .2em 0;
     line-height: 1.25em; }
   .event .event-details {
-    font-size: 0.75em;
-    padding-left: .6em; }
+    font-size: 0.75em; }
   .event .notes {
     font-size: .9em; }
   .event address {
