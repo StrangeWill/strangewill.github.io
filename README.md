@@ -25,13 +25,7 @@ To replicate our development environment a number of open source tools are requi
 $ gem install bundler
 ~~~
 
-###Install Ruby Depenencies
-
-~~~ sh
-$ bundle install
-~~~
-
-###Have bundler resolve your dependencies.
+###Have bundler resolve your dependencies
 
 ~~~ sh
 $ bundle install
@@ -47,16 +41,14 @@ $ jekyll serve
 
 Navigate to http://localhost:4000/
 
-##Meetup Integration
+##Acquiring an API key for the events page
 
-In order to pull from Meetup you need an API key configured, set the environment variable 'MEETUP_API' to your key, otherwise the meetup API integration will be skipped.
-
-##Getting started with Travis CI
-
-###Environment Variables To Configure On Travis
-
-* GH_TOKEN - An OAuth token that has access to your repo.
-* GH_REF - The repo that Travis will push the resulting site to.
-* GH_BRANCH (optional) - The branch that Travis will push the resulting site to. Default: gh-pages
-* GH_USER (optional) - User to commit as. Default: Travis-CI
-* GH_EMAIL (optional) - E-mail to commit as. Default: travis@travis-ci.org
+1. Go to the [Google Developers Console](https://console.developers.google.com).
+2. Create a new project.
+3. In the sidebar on the left, expand APIs & auth. Next, click APIs. In the list of APIs, make sure the calendar API is turned on.
+4. In the sidebar on the left, select Credentials.
+5. Click Create new Key and select Browser Key.
+6. Enter `*localhost:4000/*` in the *"Accepts Requests From"* text box and click create.
+7. Copy the new API key and replace the one located in the [event.js file](assets/js/events.js).
+8. It should look something like `gapi.client.setApiKey('YOUR API KEY);`.
+9. Wait a few moments, then navigate to [http://localhost:4000/events/](http://localhost:4000/events/) to make sure it worked.

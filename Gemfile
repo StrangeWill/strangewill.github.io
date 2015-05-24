@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
 
 gem 'jekyll'
 gem 'sass'
-gem 'rMeetup'
-gem 'wdm', '~> 0.1.0'
+
+platforms :mswin, :mingw do
+  gem 'wdm', '~> 0.1.0'
+end

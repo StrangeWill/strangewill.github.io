@@ -45,6 +45,32 @@
             },
         
         {
+            "name": "Andrew Pierce",
+            "github": "andrunix",
+            "gravatar-id": "90a56a6e77d86ce0d54dbe9c1819bb06",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://andp.me"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/ndrunix"
+                },
+                
+                {
+                    "name": "google+",
+                    "url": "https://plus.google.com/+AndrewPierceNooga"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
             "name": "Andrew Rodgers",
             "github": "acedrew",
             "gravatar-id": "35af7d0ef564b39f7d839ad411d314ad",
@@ -171,6 +197,27 @@
             },
         
         {
+            "name": "Eric Kirkham",
+            "github": "southerneer",
+            "gravatar-id": "8ea08685149ec81c35506fc5a1810347",
+            "urls": [
+            
+                {
+                    "name": "website",
+                    "url": "http://southerneer.com"
+                },
+                
+                {
+                    "name": "twitter",
+                    "url": "iamsoutherneer"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
             "name": "Ethan Rogers",
             "github": "ethanfrogers",
             "gravatar-id": "b7487ce4463c4aa16e427b05ae4550f9",
@@ -184,6 +231,27 @@
                 {
                     "name": "twitter",
                     "url": "http://twitter.com/e_frogers"
+                }
+                
+                ]
+            
+
+            },
+        
+        {
+            "name": "JD Ballard",
+            "github": "Qix-",
+            "gravatar-id": "b7c510641e6526d19abc93e866e75ac8",
+            "urls": [
+            
+                {
+                    "name": "twitter",
+                    "url": "http://twitter.com/QixDJ"
+                },
+                
+                {
+                    "name": "facebook",
+                    "url": "https://www.facebook.com/joshua.ballard.3110"
                 }
                 
                 ]

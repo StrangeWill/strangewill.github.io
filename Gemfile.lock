@@ -2,7 +2,6 @@ GEM
   remote: https://rubygems.org/
   specs:
     blankslate (2.1.2.4)
-    buftok (0.2.0)
     celluloid (0.16.0)
       timers (~> 4.0.0)
     classifier-reborn (2.0.3)
@@ -14,13 +13,10 @@ GEM
     colorator (0.1)
     execjs (2.2.2)
     fast-stemmer (1.0.2)
+    ffi (1.9.6)
     ffi (1.9.6-x86-mingw32)
-    form_data (0.1.0)
     hitimes (1.2.2)
-    http (0.7.1)
-      form_data (~> 0.1.0)
-      http_parser.rb (~> 0.6.0)
-    http_parser.rb (0.6.0)
+    hitimes (1.2.2-x86-mingw32)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
       colorator (~> 0.1)
@@ -44,7 +40,6 @@ GEM
       sass (~> 3.2)
     jekyll-watch (1.2.0)
       listen (~> 2.7)
-    json (1.8.1)
     kramdown (1.5.0)
     liquid (2.6.1)
     listen (2.8.4)
@@ -58,11 +53,6 @@ GEM
     pygments.rb (0.6.0)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    rMeetup (2.0.1)
-      buftok (~> 0.2)
-      http (~> 0.6)
-      http_parser.rb (~> 0.6)
-      json (~> 1.8)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -74,13 +64,14 @@ GEM
     toml (0.1.2)
       parslet (~> 1.5.0)
     wdm (0.1.0)
+    yajl-ruby (1.1.0)
     yajl-ruby (1.1.0-x86-mingw32)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
   jekyll
-  rMeetup
   sass
   wdm (~> 0.1.0)
